@@ -41,7 +41,7 @@
     {
       "id": "all",
       "name": "All",
-      "description": "News about the Stablecoins Ecoystem",
+      "description": "News about the Stablecoins Ecoystem - Stablewatch",
       "moderation": {
         "approvers": {
           "twitter": ["stablewatchHQ", "Piotr_Saczuk"]
