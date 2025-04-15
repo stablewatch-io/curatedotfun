@@ -1,6 +1,6 @@
 {
   "global": {
-    "botId": "stablewatch_bot",
+    "botId": "real_sw_intern",
     "defaultStatus": "pending",
     "maxSubmissionsPerUser": 100,
     "blacklist": {
