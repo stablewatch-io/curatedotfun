@@ -44,7 +44,7 @@
       "description": "News about the Stablecoins Ecoystem - Stablewatch",
       "moderation": {
         "approvers": {
-          "twitter": ["stablewatchHQ", "Piotr_Saczuk"]
+          "twitter": ["stablewatchHQ", "Piotr_Saczuk", "Jacek_Czarnecki"]
         }
       },
       "outputs": {
